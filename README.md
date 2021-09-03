@@ -2006,7 +2006,9 @@ function Squash-Commits {
 
 # Other Resources
 
-##[Gogle Translate](https://translate.google.com/)
+## GOOGLE TRANSLATE
+
+* [Gogle Translate](https://translate.google.com/)
 
 ## Books
 
